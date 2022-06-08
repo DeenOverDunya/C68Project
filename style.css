@@ -1,0 +1,39 @@
+body
+{
+background-color:#9A86A4;
+font-family:monospace;
+font-size: large;
+text-align: center;
+}
+
+.img1
+{
+width: 800px;
+height:600px;
+}
+
+.li
+{
+list-style: none;
+}
+
+.img2
+{
+width: 800px;
+height:600px;
+}
+.img3
+{
+width: 700px;
+height:500px;
+}
+.img4
+{
+width: 800px;
+height:600px;
+}
+.re
+{
+width:100px;
+height: 100px;
+}
